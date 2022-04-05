@@ -18,6 +18,7 @@ h2{
     font-weight:bold;
     font-size:22px;
     margin-bottom:20px;
+    text-align: center;
 }
 a.font-black{
     color:#000 !important;
@@ -75,19 +76,19 @@ ABOUT
  project
  *******/
 
- #project{
+ #projects{
      margin:60px auto;
-     width:80;
+     width:80%;
     
  }
 
- #project h2{
-     text-align: center;
+ #projects h2{
+    text-align: center;
  }
 
- #project.card img{
+ #projects .card img{
      width:100%;
  }
- #project.card-title{
-     font-weight:bold;
+ #projects .card-title{
+     font-weight: bold;
  }
